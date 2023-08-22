@@ -3,7 +3,7 @@ import requests
 import json
 import openai
 
-openai_api_key = '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'
+openai_api_key = 'Chave'
 sdw2023_api_url = 'https://sdw-2023-prd.up.railway.app'
 
 openai.api_key = openai_api_key
